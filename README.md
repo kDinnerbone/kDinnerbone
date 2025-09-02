@@ -7,9 +7,13 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://twitter.com/kdinnerbone_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kdinnerbone_" height="30" width="40" /></a>
-<a href="https://t.me/kdinnerbone_" target="blank"><img align="center" src="https://0" alt="kdinnerbone_" height="30" width="40" /></a>
-<a href="https://space.bilibili.com/1535075136" target="blank"><img align="center" src="https://favicon.im/www.bilibili.com" alt="kdinnerbone" height="30" width="30" /></a>
+<a href="https://twitter.com/kdinnerbone_" target="blank"><img align="center" src="/File/Twitter.png" alt="kdinnerbone_" height="30" width="40" /></a>
+<a href="https://t.me/kdinnerbone_" target="blank"><img align="center" src="/File/Telegram.png" alt="kdinnerbone_" height="30" width="40" /></a>
+<a href="https://space.bilibili.com/1535075136" target="blank"><img align="center" src="/File/Bilibili.png" alt="kdinnerbone" height="30" width="30" /></a>
+</p>
+<a href="kDinnerbone" target="blank"><img align="center" src="/File/WeiXin.png" alt="kdinnerbone" height="30" width="30" /></a>
+</p>
+<a href="http://api.mmp.cc/api/qqhome?text=1493036504" target="blank"><img align="center" src="/File/Qq.png" alt="kdinnerbone" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages And Tools:</h3>
