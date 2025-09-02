@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://twitter.com/kdinnerbone_" target="blank"><img align="center" src="/File/Twitter.png" alt="kdinnerbone_" height="30" width="40" /></a>
-<a href="https://t.me/kdinnerbone_" target="blank"><img align="center" src="/File/Telegram.png" alt="kdinnerbone_" height="30" width="40" /></a>
+<a href="https://twitter.com/kdinnerbone_" target="blank"><img align="center" src="/File/Twitter.png" alt="kdinnerbone_" height="30" width="30" /></a>
+<a href="https://t.me/kdinnerbone_" target="blank"><img align="center" src="/File/Telegram.png" alt="kdinnerbone_" height="30" width="30" /></a>
 <a href="https://space.bilibili.com/1535075136" target="blank"><img align="center" src="/File/Bilibili.png" alt="kdinnerbone" height="30" width="30" /></a>
 </p>
 <a href="kDinnerbone" target="blank"><img align="center" src="/File/WeiXin.png" alt="kdinnerbone" height="30" width="30" /></a>
