@@ -2,14 +2,12 @@
 <h3 align="center">Code Lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdinnerbone&label=Profile%20views&color=66b0ff&style=flat" alt="kdinnerbone" /> </p>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 
 - My Email **kdinnerbone@qq.com**
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://twitter.com/kdinnerbone_" target="blank"><img align="center" src="https://favicon.im/x.com" alt="kdinnerbone_" height="30" width="40" /></a>
+<a href="https://twitter.com/kdinnerbone_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kdinnerbone_" height="30" width="40" /></a>
 <a href="https://t.me/kdinnerbone_" target="blank"><img align="center" src="https://0" alt="kdinnerbone_" height="30" width="40" /></a>
 <a href="https://space.bilibili.com/1535075136" target="blank"><img align="center" src="https://favicon.im/www.bilibili.com" alt="kdinnerbone" height="30" width="30" /></a>
 </p>
