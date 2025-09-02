@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm kDinnerbone</h1>
-<h3 align="center">Code Lover</h3>
+
+<img src="/File/Tenna.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdinnerbone&label=Profile%20views&color=66b0ff&style=flat" alt="kdinnerbone" /> </p>
 
@@ -24,3 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdinnerbone&" alt="kdinnerbone" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdinnerbone" alt="kdinnerbone" /></a> </p>
+
+<img src="/File/Ralsei.png">
