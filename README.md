@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdinnerbone&label=Profile%20views&color=66b0ff&style=flat" alt="kdinnerbone" /> </p>
 
-- My Email **kdinnerbone@qq.com** **kDinnerbone@163.com**
+- My Email **kdinnerbone@qq.com** **kdinnerbone@163.com**
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
