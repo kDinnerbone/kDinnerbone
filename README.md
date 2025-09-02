@@ -11,7 +11,7 @@
 <a href="https://t.me/kdinnerbone_" target="blank"><img align="center" src="/File/Telegram.png" alt="kdinnerbone_" height="30" width="30" /></a>
 <a href="https://space.bilibili.com/1535075136" target="blank"><img align="center" src="/File/Bilibili.png" height="30" width="30" /></a>
 </p>
-<a href="kDinnerbone" target="blank"><img align="center" src="/File/WeiXin.png" height="30" width="30" /></a>
+<a href="https://weixin.qq.com/kDinnerbone" target="blank"><img align="center" src="/File/WeiXin.png" height="30" width="30" /></a>
 </p>
 <a href="http://api.mmp.cc/api/qqhome?text=1493036504" target="blank"><img align="center" src="/File/Qq.png" height="30" width="30" /></a>
 </p>
