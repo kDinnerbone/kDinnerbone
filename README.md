@@ -9,7 +9,7 @@
 <a href="https://twitter.com/kdinnerbone_" target="_blank" style="text-decoration:none;">
   <img align="center" src="/File/Twitter.png" height="30" width="30" />
 </a>  
-<a href="https://t.me/kdinnerbone" target="_blank">
+<a href="https://t.me/kdinnerbone" target="_blank" style="text-decoration:none;">
   <img align="center" src="/File/Telegram.png" height="30" width="30" />
 </a>
 <a href="https://space.bilibili.com/1535075136" target="_blank">
