@@ -4,9 +4,10 @@
 
 - My Email **kdinnerbone@qq.com** **kdinnerbone@163.com**
 
+[![img](./File/Twitter.png)](https://twitter.com/kdinnerbone_)
+
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-[![img](./File/Twitter.png)](https://twitter.com/kdinnerbone_)
 <a href="https://twitter.com/kdinnerbone_" target="_blank">
   <img align="center" src="/File/Twitter.png" height="30" width="30"/>
 </a>  
@@ -22,7 +23,6 @@
 <a href="https://qm.qq.com/q/vgdC6H3XA6" target="_blank">
   <img align="center" src="/File/Qq.png" height="30" width="30"/>
 </a>
-
 </p>
 
 <h3 align="left">Languages And Tools:</h3>
@@ -45,7 +45,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-
 </p>
 
 <p>
@@ -66,4 +65,4 @@
   </a> 
 </p>
 
-  <img src="/File/Ralsei.png">
+<img src="/File/Ralsei.png">
