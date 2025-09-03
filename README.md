@@ -4,8 +4,6 @@
 
 - My Email **kdinnerbone@qq.com** **kdinnerbone@163.com**
 
-[![img](./File/Twitter.png)](https://twitter.com/kdinnerbone_)
-
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://twitter.com/kdinnerbone_" target="_blank">
