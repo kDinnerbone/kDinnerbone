@@ -2,8 +2,6 @@
 
 <img src="/File/Tenna.gif">
 
-- My Email **kdinnerbone@qq.com** **kdinnerbone@163.com**
-
 <h3 align="left">Connect With Me:</h3>
 <a href="mailto:kdinnerbone@qq.com" target="_blank">
   <img src="https://img.shields.io/badge/%20-QQMail-1296db?style=flat&logo=maildotru&logoColor=white&rounded=true" alt="QQMail">
