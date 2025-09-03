@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://twitter.com/kdinnerbone_" target="_blank">
+<a href="https://twitter.com/kdinnerbone_" target="_blank" style="text-decoration:none;">
   <img align="center" src="/File/Twitter.png" height="30" width="30" />
 </a>  
 <a href="https://t.me/kdinnerbone" target="_blank">
