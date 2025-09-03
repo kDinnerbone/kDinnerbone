@@ -5,6 +5,12 @@
 - My Email **kdinnerbone@qq.com** **kdinnerbone@163.com**
 
 <h3 align="left">Connect With Me:</h3>
+<a href="kdinnerbone@qq.com" target="_blank">
+  <img src="https://img.shields.io/badge/%20-Mail-000000?style=flat&logo=mailboxdotorg&logoColor=white&rounded=true" alt="QQMail">
+</a>
+<a href="kdinnerbone@163.com" target="_blank">
+  <img src="https://img.shields.io/badge/%20-Mail-000000?style=flat&logo=mailboxdotorg&logoColor=white&rounded=true" alt="163Mail">
+</a>
 <a href="https://twitter.com/kdinnerbone_" target="_blank">
   <img src="https://img.shields.io/badge/%20-Twitter-000000?style=flat&logo=x&logoColor=white&rounded=true" alt="Twitter">
 </a>
@@ -23,7 +29,7 @@
 
 <h3 align="left">Languages And Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,javascript,ts" style="max-width: 100%;" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,javascript" style="max-width: 100%;" />
 </p>
 
 <p>
