@@ -6,20 +6,21 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
+[![img](./File/Twitter.png)](https://twitter.com/kdinnerbone_)
 <a href="https://twitter.com/kdinnerbone_" target="_blank">
-  <img align="center" src="/File/Twitter.png" height="30" width="30" style="border:0;"/>
+  <img align="center" src="/File/Twitter.png" height="30" width="30"/>
 </a>  
 <a href="https://t.me/kdinnerbone" target="_blank">
-  <img align="center" src="/File/Telegram.png" height="30" width="30" style="border:0;"/>
+  <img align="center" src="/File/Telegram.png" height="30" width="30"/>
 </a>
 <a href="https://space.bilibili.com/1535075136" target="_blank">
-  <img align="center" src="/File/Bilibili.png" height="30" width="30" />
+  <img align="center" src="/File/Bilibili.png" height="30" width="30"/>
 </a>
 <a href="https://weixin.qq.com/dl/chat?kDinnerbone" target="_blank">
-  <img align="center" src="/File/WeiXin.png" height="30" width="30" />
+  <img align="center" src="/File/WeiXin.png" height="30" width="30"/>
 </a>
 <a href="https://qm.qq.com/q/vgdC6H3XA6" target="_blank">
-  <img align="center" src="/File/Qq.png" height="30" width="30" />
+  <img align="center" src="/File/Qq.png" height="30" width="30"/>
 </a>
 
 </p>
