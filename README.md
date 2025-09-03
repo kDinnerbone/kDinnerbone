@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect With Me:</h3>
 <a href="https://twitter.com/kdinnerbone_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%40kdinnerbone_-1DA1F2?style=flat&logo=twitter&logoColor=white&rounded=true" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-%40kdinnerbone_-1DA1F2?style=flat&logo=x&logoColor=white&rounded=true" alt="Twitter">
 </a>
 <a href="https://t.me/kdinnerbone" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-kdinnerbone-0088cc?style=flat&logo=telegram&logoColor=white&rounded=true" alt="Telegram">
