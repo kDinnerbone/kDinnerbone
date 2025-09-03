@@ -6,19 +6,19 @@
 
 <h3 align="left">Connect With Me:</h3>
 <a href="https://twitter.com/kdinnerbone_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%40kdinnerbone_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-%40kdinnerbone_-1DA1F2?style=flat&logo=twitter&logoColor=white&rounded=true" alt="Twitter">
 </a>
 <a href="https://t.me/kdinnerbone" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-kdinnerbone-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-kdinnerbone-0088cc?style=flat&logo=telegram&logoColor=white&rounded=true" alt="Telegram">
 </a>
 <a href="https://space.bilibili.com/1535075136" target="_blank">
-  <img src="https://img.shields.io/badge/Bilibili-1535075136-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
+  <img src="https://img.shields.io/badge/Bilibili-1535075136-00A1D6?style=flat&logo=bilibili&logoColor=white&rounded=true" alt="Bilibili">
 </a>
 <a href="https://weixin.qq.com/dl/chat?kDinnerbone" target="_blank">
-  <img src="https://img.shields.io/badge/Weixin-kDinnerbone-7BB32E?style=for-the-badge&logo=wechat&logoColor=white" alt="Weixin">
+  <img src="https://img.shields.io/badge/Weixin-kDinnerbone-7BB32E?style=flat&logo=wechat&logoColor=white&rounded=true" alt="Weixin">
 </a>
 <a href="https://qm.qq.com/q/vgdC6H3XA6" target="_blank">
-  <img src="https://img.shields.io/badge/QQ-kdinnerbone-FFCC00?style=for-the-badge&logo=qq&logoColor=white" alt="QQ">
+  <img src="https://img.shields.io/badge/QQ-kdinnerbone-FFCC00?style=flat&logo=qq&logoColor=white&rounded=true" alt="QQ">
 </a>
 
 <p align="left">
