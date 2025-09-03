@@ -5,6 +5,7 @@
 - My Email **kdinnerbone@qq.com** **kdinnerbone@163.com**
 
 <h3 align="left">Connect With Me:</h3>
+[![Twitter](https://img.shields.io/badge/Twitter-%40kdinnerbone_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kdinnerbone_)
 <p align="left">
 <a href="https://twitter.com/kdinnerbone_" target="_blank">
   <img align="center" src="/File/Twitter.png" height="30" width="30"/>
