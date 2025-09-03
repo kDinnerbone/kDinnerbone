@@ -6,10 +6,10 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://twitter.com/kdinnerbone_" target="_blank">
+<a href="https://twitter.com/kdinnerbone_" target="blank">
   <img align="center" src="/File/Twitter.png" alt="kdinnerbone_" height="30" width="30" />
 </a>  
-<a href="https://t.me/kdinnerbone_" target="_blank">
+<a href="https://t.me/kdinnerbone" target="_blank">
   <img align="center" src="/File/Telegram.png" alt="kdinnerbone_" height="30" width="30" />
 </a>
 <a href="https://space.bilibili.com/1535075136" target="_blank">
