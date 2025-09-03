@@ -24,11 +24,11 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdinnerbone&show_icons=true&locale=en&layout=compact" alt="kdinnerbone" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdinnerbone&show_icons=true&locale=en" alt="kdinnerbone" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdinnerbone&" alt="kdinnerbone" /></p>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdinnerbone" alt="kdinnerbone" /></a> </p>
 
 <img src="/File/Ralsei.png">
