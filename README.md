@@ -6,10 +6,10 @@
 
 <h3 align="left">Connect With Me:</h3>
 <a href="kdinnerbone@qq.com" target="_blank">
-  <img src="https://img.shields.io/badge/%20-Mail-000000?style=flat&logo=mailboxdotorg&logoColor=white&rounded=true" alt="QQMail">
+  <img src="https://img.shields.io/badge/%20-Mail-1296db?style=flat&logo=maildotru&logoColor=white&rounded=true" alt="QQMail">
 </a>
 <a href="kdinnerbone@163.com" target="_blank">
-  <img src="https://img.shields.io/badge/%20-Mail-000000?style=flat&logo=mailboxdotorg&logoColor=white&rounded=true" alt="163Mail">
+  <img src="https://img.shields.io/badge/%20-Mail-d12020?style=flat&logo=maildotru&logoColor=white&rounded=true" alt="163Mail">
 </a>
 <a href="https://twitter.com/kdinnerbone_" target="_blank">
   <img src="https://img.shields.io/badge/%20-Twitter-000000?style=flat&logo=x&logoColor=white&rounded=true" alt="Twitter">
