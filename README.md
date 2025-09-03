@@ -43,8 +43,6 @@
 </a>
 </p>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=kDinnerbone" />
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdinnerbone&show_icons=true&locale=en&layout=compact" alt="kdinnerbone" />
 </p>
