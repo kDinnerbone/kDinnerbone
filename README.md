@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/%20-QQ-1296db?style=flat&logo=qq&logoColor=white&rounded=true" alt="QQ">
 </a>
 
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,javascript,ts" style="max-width: 100%;" />
+
 <h3 align="left">Languages And Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
