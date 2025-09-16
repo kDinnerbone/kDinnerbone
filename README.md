@@ -2,7 +2,7 @@
 
 <img src="/File/Tenna.gif">
 
-<h3 align="left">Connect With Me:</h3>
+<h3 align="left">Connect With Me: </h3>
 <a href="mailto:kdinnerbone@qq.com" target="_blank">
   <img src="https://img.shields.io/badge/%20-QQMail-1296db?style=flat&logo=maildotru&logoColor=white&rounded=true" alt="QQMail">
 </a>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/%20-QQ-1296db?style=flat&logo=qq&logoColor=white&rounded=true" alt="QQ">
 </a>
 
-<h3 align="left">Languages And Tools:</h3>
+<h3 align="left">Languages And Tools: </h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,javascript" style="max-width: 100%;" />
 </p>
